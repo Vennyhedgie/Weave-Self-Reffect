@@ -22,21 +22,16 @@ A more visible UI element for Weaver's Elite Skill, Weave Self.
 <img width="792" height="210" alt="image" src="https://github.com/user-attachments/assets/a80b038e-ed52-4c7e-a0b0-258202aa3864" />
 
 # How to use
-Simply download the zip file to your reffect root folder like so:
+First download the zip file to your reffect root folder like so:
 
-<img width="510" height="254" alt="image_2025-10-30_17-01-00" src="https://github.com/user-attachments/assets/38e9115b-d0db-4f75-8c43-7ac000a28f4e" />
+<img width="555" height="198" alt="image" src="https://github.com/user-attachments/assets/0d27e0fd-64f0-4a94-b1f9-d6b5c193b5c5" />
 
 Then right click > Extract here (the necessary files will be added to the packs and icons subfolders).
 
 Then, return to reffect ingame and refresh packs.
 
-Under the effect, enable whichever option you prefer.
+Finally, enable your interface and icon set of choice:
 
-<img width="899" height="391" alt="image" src="https://github.com/user-attachments/assets/948f4758-0444-4030-8129-794005a6dbe9" />
+<img width="296" height="154" alt="image" src="https://github.com/user-attachments/assets/1175e16a-9ddf-4287-9981-02fabe48fbe7" />
 
-
-# Notes
-
-There are other, more visible packs out there for this effect, but this one is focused on trying to stay consistent with the game's existing UI artstyle sensibilities, so it's fairly minimalist.
-
-This effect is made with Normal interface size. If you use a different one, you can resize all the elements at once by right-clicking on the pack and selecting resize. Alternatively, you can move the pack's position on screen if needed, though it should be aligned by default.
+<img width="589" height="242" alt="image" src="https://github.com/user-attachments/assets/7493f209-1aac-42ed-bb43-2a6f5f629a4c" />
